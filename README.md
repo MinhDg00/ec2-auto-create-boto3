@@ -17,7 +17,7 @@ I. Create IAM user with Programmic Access. A detail instructions can be from [he
 
 II. Set up credentials in `~/.aws/credentials` file with your aws_access_key_id and aws_secret_access_key. More details can be found [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 
-III. navigate to the folder and Run `main.py` 
+III. Navigate to this folder and Run `main.py` 
 
 ```python
 python3 main.py <aws_access_key_id> <aws_secret_access_key> <region> 
